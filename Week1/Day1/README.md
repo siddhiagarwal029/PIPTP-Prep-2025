@@ -2,7 +2,7 @@
 
 ## Problems
 ### Problem 1:
----
+
 ```python
 def fun(w, x):
     y = 0
