@@ -21,7 +21,7 @@ Uses % operator and find if x%w is equals to 0 or w%x is equals to zero. If one 
 ### Solution:
 ---
 1
-  
+_
 ### Problem 2:
 ---
 ```python
@@ -38,4 +38,4 @@ here the loop executes till we get the value of a > or equal to 5. And by excuti
 ### Solution:
 ---
 2
-
+_
