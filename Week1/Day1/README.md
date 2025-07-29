@@ -1,7 +1,7 @@
 # Week1 - Day 1
 
 ## Problems
-###Problem 1:
+### Problem 1:
 ---
   def fun(w,x):
     y=0
@@ -12,12 +12,12 @@
     print(y)
   print(fun(40,4))
 
-###Approach:
+### Approach:
 ---
 Uses % operator and find if x%w is equals to 0 or w%x is equals to zero. If one of the condition true then print 1 or else print 10.
 
-###Solution:
+### Solution:
 ---
 1
   
-###Problem 2
+### Problem 2
